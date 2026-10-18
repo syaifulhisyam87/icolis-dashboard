@@ -1,6 +1,6 @@
 {
   "format_version": 1,
-  "prepared_at": "2026-10-18T12:09:37.776508+00:00",
+  "prepared_at": "2026-10-18T12:17:09.776337+00:00",
   "source_as_of": "",
   "issues": [
     "Poster row 21: title without Paper ID; excluded from counts."
@@ -899,13 +899,13 @@
       "Decision": "Accept (Minor Revision)",
       "Participation": "Attending",
       "Manuscript / abstract": "Received",
-      "Presentation": "Not recorded",
+      "Presentation": "Received",
       "Presentation field": "Slides Received",
       "Payment": "Not recorded",
       "Decision notified": "Received",
       "Source row": 62,
       "Decision group": "Accepted",
-      "Action": "Follow up slides"
+      "Action": ""
     },
     {
       "Type": "Full Paper",
