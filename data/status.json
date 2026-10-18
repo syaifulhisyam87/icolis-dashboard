@@ -1,7 +1,7 @@
 {
   "format_version": 1,
-  "prepared_at": "2026-10-18T08:15:24.301293+00:00",
-  "source_as_of": "Initial attachment; export date/time not recorded",
+  "prepared_at": "2026-10-18T12:09:37.776508+00:00",
+  "source_as_of": "",
   "issues": [
     "Poster row 21: title without Paper ID; excluded from counts."
   ],
@@ -1256,13 +1256,13 @@
       "Decision": "Accept (as is)",
       "Participation": "Attending",
       "Manuscript / abstract": "Not received",
-      "Presentation": "Not recorded",
+      "Presentation": "Received",
       "Presentation field": "Slides Received",
       "Payment": "Not tracked",
       "Decision notified": "Received",
       "Source row": 16,
       "Decision group": "Accepted",
-      "Action": "Follow up slides; Follow up manuscript"
+      "Action": "Follow up manuscript"
     },
     {
       "Type": "Short Paper",
@@ -1375,13 +1375,13 @@
       "Decision": "Accept (as is)",
       "Participation": "Attending",
       "Manuscript / abstract": "Not received",
-      "Presentation": "Not recorded",
+      "Presentation": "Received",
       "Presentation field": "Final Poster Received",
       "Payment": "Not tracked",
       "Decision notified": "Received",
       "Source row": 11,
       "Decision group": "Accepted",
-      "Action": "Follow up poster; Follow up extended abstract"
+      "Action": "Follow up extended abstract"
     },
     {
       "Type": "Poster",
