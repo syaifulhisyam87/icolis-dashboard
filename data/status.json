@@ -1,7 +1,7 @@
 {
   "format_version": 1,
-  "prepared_at": "2026-10-19T08:23:53.206544+00:00",
-  "source_as_of": "",
+  "prepared_at": "2026-10-19T11:06:24.893643+00:00",
+  "source_as_of": "19 Oct 2026 7:06 PM MYT",
   "issues": [
     "Poster row 21: title without Paper ID; excluded from counts."
   ],
@@ -47,7 +47,7 @@
       "Country": "China",
       "Theme": "",
       "Decision": "Accept (Minor Revision)",
-      "Participation": "Not responding",
+      "Participation": "Not attending",
       "Manuscript / abstract": "Not received",
       "Presentation": "Not recorded",
       "Presentation field": "Slides Received",
@@ -55,7 +55,7 @@
       "Decision notified": "Received",
       "Source row": 12,
       "Decision group": "Accepted",
-      "Action": "Confirm participation"
+      "Action": ""
     },
     {
       "Type": "Full Paper",
@@ -882,7 +882,7 @@
       "Decision": "Accept (Major Revision)",
       "Participation": "Not responding",
       "Manuscript / abstract": "Received",
-      "Presentation": "Not recorded",
+      "Presentation": "Received",
       "Presentation field": "Slides Received",
       "Payment": "Not recorded",
       "Decision notified": "Received",
